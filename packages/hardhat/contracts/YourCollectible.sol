@@ -9,11 +9,6 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 // GET LISTED ON OPENSEA: https://testnets.opensea.io/get-listed/step-two
 
-// @title A Contrat for creating NFT's
-// @author Daven Prashar-Savoie
-// @notice Only the most basic NFT contract with Counter for incrementing
-// @dev All function calls implemented without side effects
-
 contract YourCollectible is ERC721, Ownable {
 
   using Counters for Counters.Counter;
@@ -23,8 +18,6 @@ contract YourCollectible is ERC721, Ownable {
     _setBaseURI("https://ipfs.io/ipfs/");
   }
 
-  // @notice returns the items token URI
-  // @dev returns a incrementing number as tokenID
   function mintItem(address to, string memory tokenURI)
       public
       onlyOwner
