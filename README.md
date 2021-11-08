@@ -1,5 +1,8 @@
 # 🏗 scaffold-eth - 🎫 Buyer Mints NFT
 
+0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
+contract is deployed here
+
 > (Counterfactual NFT minting example...)
 
 Deployer pays around (0.283719 ETH ~$500 at todays gas and price) for the initial contract but then NFTs are only minted once a buyer wants them. (The buyer of the NFT pays the gas to mint. ~$55)
