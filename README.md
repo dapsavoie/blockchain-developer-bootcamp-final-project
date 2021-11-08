@@ -3,6 +3,10 @@
 0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
 contract is deployed here
 
+https://rinkeby.etherscan.io/address/0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
+
+https://ipfs.io/ipfs/QmR9WSgkffeapbyJpca6CFsfxdP92Leh3KNHwZpSnEKA6W
+
 > (Counterfactual NFT minting example...)
 
 Deployer pays around (0.283719 ETH ~$500 at todays gas and price) for the initial contract but then NFTs are only minted once a buyer wants them. (The buyer of the NFT pays the gas to mint. ~$55)
