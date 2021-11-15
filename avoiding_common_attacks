@@ -1,0 +1,8 @@
+
+Using Specific Compiler Pragma 
+
+I made sure to lock the solidity compilers between 2 versions. This ensures the contract is not deployed on a version of solidity. A newer version may have undiscovered bugs related to functions of the origin contract. This locks the versioning to known and tested ones preventing future attacks and maximizing security by limiting the versioning to what we already know.
+
+Use of Require
+
+The require clause is used to ennsure that NFT'S that are NOT for sale cannot be minted.
