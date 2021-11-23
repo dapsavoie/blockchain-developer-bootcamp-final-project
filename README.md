@@ -46,15 +46,12 @@ The tests check if the contract can be deployed and verifies the address and tok
 
 # Setting Up the Project
 
-git clone https://github.com/austintgriffith/scaffold-eth.git buyer-mints-nft
-
-cd buyer-mints-nft
-
-git checkout buyer-mints-nft
+git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/tree/rinkeby
 
 yarn install 
 
 ## Upload the art to IPFS
+
 yarn upload 
 
 ## Open another terminal and start the hardhat chain
@@ -72,8 +69,3 @@ yarn deploy
 yarn start
 
 The app should be visible on localhost:3000 if you deployed locally or on the link above for rinkeby network.
-
-
-
-
-git 
