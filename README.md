@@ -4,6 +4,8 @@ The goal of this project is to developed NFT's to represent real world data from
 
 Public Ethereum Address for Certification as an NFT
 
+0xeF7752d59490D4dd156dc60Afe5FA81cf8BFfc79
+
 ## Directory Structure
 
 ### Important files
