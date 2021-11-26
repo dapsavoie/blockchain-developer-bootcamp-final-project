@@ -34,9 +34,14 @@ https://rinkeby.etherscan.io/address/0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
 
 https://ipfs.io/ipfs/QmR9WSgkffeapbyJpca6CFsfxdP92Leh3KNHwZpSnEKA6W
 
-2. localhost 
+2. Ropsten
 
-Change to the localhost branch
+Change to the ropsten branch
+
+3. Localhost
+
+Change the defaultNetwork in packages/hardhat/hardhat.config.js to localhost
+
 
 ### Unit Tests
 
