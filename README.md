@@ -1,6 +1,6 @@
 # NFT Minting Marketplace
 
-The goal of this project is to developed NFT's to represent real world data from the outcomes of a range of social enterprise projects, scientific projects or environmental projects. The NFT  infrastructure developed will allow a user to transform meta-data into NFT's. We plan to use this to create 
+The goal of this project is to developed NFT's to represent real world data from the outcomes of a range of social enterprise projects, scientific projects or environmental projects. The NFT  infrastructure developed will allow a user to transform meta-data into NFT's. We plan to use this to create NFT's for social good projects.
 
 ### Public Ethereum Address for Certification as an NFT
 
