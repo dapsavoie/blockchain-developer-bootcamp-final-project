@@ -54,7 +54,7 @@ The tests check if the contract can be deployed and verifies the address and tok
 
 # Setting Up the Project
 
-git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/tree/rinkeby
+git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/
 
 yarn install 
 
