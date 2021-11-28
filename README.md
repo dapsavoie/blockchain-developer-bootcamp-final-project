@@ -1,8 +1,8 @@
 # NFT Minting Marketplace
 
-The goal of this project is to developed NFT's to represent real world data from the outcomes of a range of social enterprise projects, scientific projects or environmental projects. The NFT  infrastructure developed will allow a user to transform meta-data into NFT's.
+The goal of this project is to developed NFT's to represent real world data from the outcomes of a range of social enterprise projects, scientific projects or environmental projects. The NFT  infrastructure developed will allow a user to transform meta-data into NFT's. We plan to use this to create 
 
-Public Ethereum Address for Certification as an NFT
+### Public Ethereum Address for Certification as an NFT
 
 0xeF7752d59490D4dd156dc60Afe5FA81cf8BFfc79
 
@@ -17,14 +17,14 @@ Public Ethereum Address for Certification as an NFT
 
 #### Packages folder contents
 
-1. hardhat
-2. react-app
+1. hardhat: contains smart contracts and unit tests primarily.
+2. react-app: the FE of the app and some deployment files
 3. services
 4. subgraph
 
 ### Front End Access
 
-1. Rinkeby network
+#### 1. Rinkeby network is deployed with Main branch
 
 Smart Contract is deployed here
 
@@ -34,11 +34,10 @@ https://rinkeby.etherscan.io/address/0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
 
 https://ipfs.io/ipfs/QmR9WSgkffeapbyJpca6CFsfxdP92Leh3KNHwZpSnEKA6W
 
-2. Ropsten
-
+#### 2. Ropsten
 Change to the ropsten branch
 
-3. Localhost
+#### 3. Localhost
 
 Change the defaultNetwork in packages/hardhat/hardhat.config.js to localhost
 
