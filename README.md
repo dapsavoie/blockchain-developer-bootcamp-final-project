@@ -64,16 +64,12 @@ yarn upload
 
 ## Open another terminal and start the hardhat chain
 
-cd buyer-mints-nft
-
 yarn chain
 
 ## In the 3rd terminal 
-
-cd buyer-mints-nft
 
 yarn deploy
 
 yarn start
 
-The app should be visible on localhost:3000 if you deployed locally or on the link above for rinkeby network.
+The app should be visible on localhost:3000 if you deployed locally. You can see what it should look like on the link to the hosted website above.
