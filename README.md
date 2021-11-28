@@ -6,6 +6,10 @@ The goal of this project is to developed NFT's to represent real world data from
 
 0xeF7752d59490D4dd156dc60Afe5FA81cf8BFfc79
 
+### Video Walkthrough
+
+https://www.loom.com/share/a416a8553f64444eb65914dca5efeef4
+
 ## Directory Structure
 
 ### Important files
