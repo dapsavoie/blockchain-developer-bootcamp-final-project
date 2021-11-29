@@ -8,6 +8,8 @@ The goal of this project is to developed NFT's to represent real world data from
 
 ### Video Walkthrough
 
+Skip to 1 minute to see the demo :)
+
 https://www.loom.com/share/a416a8553f64444eb65914dca5efeef4
 
 ## Directory Structure
