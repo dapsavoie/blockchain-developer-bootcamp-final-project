@@ -34,7 +34,7 @@ https://www.loom.com/share/a416a8553f64444eb65914dca5efeef4
 
 Smart Contract is deployed here
 
-0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
+```0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046```
 
 https://rinkeby.etherscan.io/address/0xABd2Df4466DE29E3aE0c6389689Bd6CA9B10F046
 
