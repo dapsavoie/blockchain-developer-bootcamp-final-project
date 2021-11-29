@@ -4,7 +4,7 @@ The goal of this project is to developed NFT's to represent real world data from
 
 ### Public Ethereum Address for Certification as an NFT
 
-0xeF7752d59490D4dd156dc60Afe5FA81cf8BFfc79
+```0xeF7752d59490D4dd156dc60Afe5FA81cf8BFfc79```
 
 ### Video Walkthrough
 
@@ -50,28 +50,28 @@ Change the defaultNetwork in packages/hardhat/hardhat.config.js to localhost
 
 ### Unit Tests
 
-Run '''yarn test''' to test the contract. 
+Run ```yarn test``` to test the contract. 
 
 The tests check if the contract can be deployed and verifies the address and token_uri is not set until after its deployed.
 
 # Setting Up the Project
 
-git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/
+```git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/```
 
-yarn install 
+```yarn install```
 
 ## Upload the art to IPFS
 
-yarn upload 
+```yarn upload ```
 
 ## Open another terminal and start the hardhat chain
 
-yarn chain
+```yarn chain ```
 
 ## In the 3rd terminal 
 
-yarn deploy
+```yarn deploy```
 
-yarn start
+```yarn start```
 
-The app should be visible on localhost:3000 if you deployed locally. You can see what it should look like on the link to the hosted website above.
+The app should be visible on ```localhost:3000``` if you deployed locally. You can see what it should look like on the link to the hosted website above.
