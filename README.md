@@ -58,7 +58,7 @@ The tests check if the contract can be deployed and verifies the address and tok
 
 ```git clone https://github.com/dapsavoie/blockchain-developer-bootcamp-final-project/```
 
-```yarn install```
+```yarn```
 
 ## Upload the art to IPFS
 
