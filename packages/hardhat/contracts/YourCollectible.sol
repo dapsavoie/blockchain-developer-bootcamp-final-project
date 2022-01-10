@@ -4,11 +4,6 @@ pragma solidity >=0.6.0 <0.7.0;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
-///@title A erc721 nft minter
-///@author Daven Prashar-Savoie
-///@notice You can use this contract for a basic NFT minting process.
-///@dev All function calls are currently implemented without side effects
-
 contract YourCollectible is ERC721 {
 
   using Counters for Counters.Counter;
