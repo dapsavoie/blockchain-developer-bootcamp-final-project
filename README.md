@@ -82,7 +82,7 @@ Change the defaultNetwork in ```packages/hardhat/hardhat.config.js```
 
 Generate a deploy account with yarn generate
 
-Use ```yarn account``` to view the new account
+Use ```yarn account``` to view the new account. Fund the new account with gas.
 
 check your artwork file and run
 
