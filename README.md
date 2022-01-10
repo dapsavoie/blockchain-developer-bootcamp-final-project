@@ -75,3 +75,21 @@ The tests check if the contract can be deployed and verifies the address and tok
 ```yarn start```
 
 The app should be visible on ```localhost:3000``` if you deployed locally. You can see what it should look like on the link to the hosted website above.
+
+##Deploy to a testnet
+
+Change the defaultNetwork in ```packages/hardhat/hardhat.config.js```
+
+Generate a deploy account with yarn generate
+
+Use ```yarn account``` to view the new account
+
+check your artwork file and run
+
+```yarn upload```
+
+Deploy !
+
+```yarn deploy```
+
+Edit your frontend App.jsx in packages/react-app/src to change the targetNetwork to wherever you deployed your contract:
