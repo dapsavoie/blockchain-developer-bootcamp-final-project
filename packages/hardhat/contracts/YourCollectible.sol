@@ -1,17 +1,13 @@
 pragma solidity >=0.6.0 <0.7.0;
 //SPDX-License-Identifier: MIT
 
-//import "hardhat/console.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
-//import "@openzeppelin/contracts/access/Ownable.sol";
-//learn more: https://docs.openzeppelin.com/contracts/3.x/erc721
 
 ///@title A erc721 nft minter
 ///@author Daven Prashar-Savoie
 ///@notice You can use this contract for a basic NFT minting process.
 ///@dev All function calls are currently implemented without side effects
-///@custom:experimental This is an experimental contract.
 
 contract YourCollectible is ERC721 {
 
