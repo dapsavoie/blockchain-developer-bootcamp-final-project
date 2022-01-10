@@ -76,7 +76,7 @@ The tests check if the contract can be deployed and verifies the address and tok
 
 The app should be visible on ```localhost:3000``` if you deployed locally. You can see what it should look like on the link to the hosted website above.
 
-##Deploy to a testnet
+## Deploy to a testnet
 
 Change the defaultNetwork in ```packages/hardhat/hardhat.config.js```
 
